@@ -1,0 +1,9 @@
+C:\HZ\nassqua\NassquaAPI\NassquaAPI\bin\Debug\netcoreapp1.1\NassquaAPI.deps.json
+C:\HZ\nassqua\NassquaAPI\NassquaAPI\bin\Debug\netcoreapp1.1\NassquaAPI.runtimeconfig.json
+C:\HZ\nassqua\NassquaAPI\NassquaAPI\bin\Debug\netcoreapp1.1\NassquaAPI.runtimeconfig.dev.json
+C:\HZ\nassqua\NassquaAPI\NassquaAPI\bin\Debug\netcoreapp1.1\NassquaAPI.dll
+C:\HZ\nassqua\NassquaAPI\NassquaAPI\obj\Debug\netcoreapp1.1\NassquaAPI.csprojResolveAssemblyReference.cache
+C:\HZ\nassqua\NassquaAPI\NassquaAPI\obj\Debug\netcoreapp1.1\NassquaAPI.AssemblyInfo.cs
+C:\HZ\nassqua\NassquaAPI\NassquaAPI\bin\Debug\netcoreapp1.1\NassquaAPI.pdb
+C:\HZ\nassqua\NassquaAPI\NassquaAPI\obj\Debug\netcoreapp1.1\NassquaAPI.dll
+C:\HZ\nassqua\NassquaAPI\NassquaAPI\obj\Debug\netcoreapp1.1\NassquaAPI.pdb
